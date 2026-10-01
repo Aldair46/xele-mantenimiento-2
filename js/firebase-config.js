@@ -3,10 +3,10 @@
 // Mientras apiKey diga "PEGA_AQUI_TU_API_KEY", la app guarda los datos solo en cada dispositivo.
 // Estos valores no son secretos: la seguridad la dan las reglas de Firestore.
 export const firebaseConfig = {
-  apiKey: "PEGA_AQUI_TU_API_KEY",
-  authDomain: "tu-proyecto.firebaseapp.com",
-  projectId: "tu-proyecto",
-  storageBucket: "tu-proyecto.appspot.com",
-  messagingSenderId: "000000000000",
-  appId: "1:000000000000:web:0000000000000000"
+  apiKey: "AIzaSyDHtmM-Hwz5VCj-K-mWRunAnpcoPpaoQ_k",
+  authDomain: "xele-mantenimiento.firebaseapp.com",
+  projectId: "xele-mantenimiento",
+  storageBucket: "xele-mantenimiento.firebasestorage.app",
+  messagingSenderId: "1043852869074",
+  appId: "1:1043852869074:web:e8ddd4b2364e80b1e15c0b"
 };
